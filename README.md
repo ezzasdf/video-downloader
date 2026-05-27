@@ -58,29 +58,12 @@
 3. Run the installer.
 4. Launch the app from the desktop shortcut.
 
----
-
-## Option B — Run From Source
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/enhanced-video-downloader.git
-
-# Enter project folder
-cd enhanced-video-downloader
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch application
-python ytdlp_gui.py
-```
 
 ---
 
 # 🔒 2. First Launch & Security Setup
 
-On first launch, the application creates a secure local admin profile.
+On first launch, the application creates a secure local admin profile. create your account by having a username and a password
 
 ```text
 ┌────────────────────────────────────────┐
