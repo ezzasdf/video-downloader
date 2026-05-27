@@ -54,7 +54,7 @@
 ## Option A — Installer (Recommended)
 
 1. Open the **Releases** tab on GitHub.
-2. Download `YouTubeDownloaderSetup.exe`
+2. Download `YouTubeDownloaderSetup_v1.0.3.rar`
 3. Run the installer.
 4. Launch the app from the desktop shortcut.
 
